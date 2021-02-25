@@ -1,0 +1,140 @@
+F
+Bill Collins
+32 South Main
+Ogden
+UT
+84408
+3.2 12.2 8.3 .32
+C
+Bart Smith
+64 South Main
+Ogden
+UT
+84408
+12.8 18 18 32
+C
+Jim Allen
+63 South Main
+Ogden
+UT
+84408
+23.2 21.5 16 16
+F
+Jim Griffin
+85 South Main
+Ogden
+UT
+84408
+4.1 14.2 11.3 .46
+F
+Marty Stamey
+112 South Main
+Ogden
+UT
+84408
+3.8 12.62 10 .68
+F
+Geri Rose
+125 South Main
+Ogden
+UT
+84408
+2 12.2 8.3 .5
+T
+Terri Taylor
+143 South Main
+Ogden
+UT
+84408
+3.6 32 8.6
+C
+Jill Johnson
+158 South Main
+Ogden
+UT
+84408
+45 24 14.2 14.2
+T
+Jeff Allison
+172 South Main
+Ogden
+UT
+84408
+2.8 28 4.2
+F
+Joe Looney
+196 South Main
+Ogden
+UT
+84408
+1.1 14.9 10.8 .7
+F
+Bill Wolfe
+215 South Main
+Ogden
+UT
+84408
+.8 11.8 7.2 .26
+F
+Jean James
+231 South Main
+Ogden
+UT
+84408
+1.2 12.2 8.3 .32
+C
+Jim Weaver
+244 South Main
+Ogden
+UT
+84408
+12.6 24.4 12.6 12.6
+C
+Bob Pore
+268 South Main
+Ogden
+UT
+84408
+58.5 61.2 9.2 9.2
+F
+Greg Rutherford
+274 South Main
+Ogden
+UT
+84408
+2.8 13.2 9.6 .3
+C
+Renee Javens
+281 South Main
+Ogden
+UT
+84408
+42 24 18 18
+F
+Rose Harrison
+302 South Main
+Ogden
+UT
+84408
+.68 12 9 .28
+F
+Cathy Setzer
+320 South Main
+Ogden
+UT
+84408
+2.4 14 8 .5
+C
+Gordon Pike
+328 South Main
+Ogden
+UT
+84408
+51 32 16 16
+C
+Beth Holland
+346 South Main
+Ogden
+UT
+84408
+48 40 12 12

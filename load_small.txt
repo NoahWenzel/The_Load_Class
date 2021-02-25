@@ -1,0 +1,35 @@
+F
+Bill Collins
+32 South Main
+Ogden
+UT
+84408
+3.2 12.2 8.3 .32
+C
+Bart Smith
+64 South Main
+Ogden
+UT
+84408
+12.8 18 18 32
+C
+Jim Allen
+63 South Main
+Ogden
+UT
+84408
+23.2 21.5 16 16
+F
+Jim Griffin
+85 South Main
+Ogden
+UT
+84408
+4.1 14.2 11.3 .46
+T
+Terri Taylor
+143 South Main
+Ogden
+UT
+84408
+3.6 32 8.6
