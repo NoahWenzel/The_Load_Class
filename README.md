@@ -803,5 +803,14 @@ the shipping items and returns how many have is delivered set to false.
  the unit tests pass.
  
 ---
-# The_Load_Class
-# The_Load_Class
+# Note
+
+The following code was written by me, Noah Wenzel:
+
++ All code in the src file
+
+
+The following code was provided to me:
+
++ All code in the tests file
+
