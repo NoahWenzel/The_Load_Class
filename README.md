@@ -192,10 +192,9 @@ any additional testing at this point.
 
 ## Part 3: Change the Carton Class so it Inherits From the ShippingItem Class 
 
-Cartons are one type of shipping item. We have worked with the `Carton` class in 
-several activities. We will be using it 
-again in this activity. This version is a bit different than
- the Carton class we have used in the past. It throws
+Cartons are one type of shipping item. I have created the carton class in previous projects. I will be using it 
+again in this project. This version is a bit different than
+ the Carton class I have used in the past. It throws
  out_of_range exceptions when values sent are incorrect. It
  also verifies that the length is longer than the width
  or height. The code
@@ -246,7 +245,7 @@ for this.
 
 ### Part 2.2: Use the Carton Class in Main.cpp
 
-Now we can use the Carton class in main. 
+Now I can use the Carton class in main. 
 
 1. Create a
 Carton object using the new
@@ -268,10 +267,6 @@ Run the unit tests for the Carton class.
 9. Now run all the tests on the `Carton` and the `Shipping_Item`
 class by running
 main_test.
-
-10. If any of the tests fail, make changes until all
-the unit tests pass.
-
 
 ---
 
@@ -391,7 +386,7 @@ length * height * thickness.
  
  8. In the tests/CMakeLists.txt (there are three CMakeLists.txt 
  files so be sure to get the one in the tests folder) uncomment 
- the line for flat by removing the # at the beginning of the line.
+ the line for flat.
  
      ```
     set(UNIT_TEST_LIST 
@@ -402,8 +397,6 @@ length * height * thickness.
       #load             #uncomment to run load tests
       ) 
      ```
-    Then click the Reload Changes message at the top of the 
-    tests/CMakeLists.txt file.
  
  9. Now run all the tests on the `Flat` class by running
  main_test.
@@ -545,7 +538,7 @@ circumference so this method just needs to return the circumference of the Tube.
  
  8. In the tests/CMakeLists.txt (there are three CMakeLists.txt 
  files so be sure to get the one in the tests folder) uncomment 
- the line for tube by removing the # at the beginning of the line.
+ the line for tube.
  
      ```
     set(UNIT_TEST_LIST 
@@ -556,8 +549,6 @@ circumference so this method just needs to return the circumference of the Tube.
       #load             #uncomment to run load tests
       ) 
      ```
-    Then click the Reload Changes message at the top of the 
-    tests/CMakeLists.txt file.
  
  9. Now run all the tests on the `Tube` class by running
  main_test.
@@ -577,7 +568,7 @@ of shipping items to be delivered. These items may be
 cartons, flats, or tubes. Each item has an address where 
 it will be delivered.
 
-We will create a class that will manage a load of 
+I will create a class that will manage a load of 
 shipping items for delivery. The Load class will help 
 the driver by displaying each item when it is next to 
 be delivered. It will allow the driver to mark when 
@@ -608,7 +599,7 @@ There are two load files.
 
 The load_small.txt file is just five of the shipping 
 items from load_1.txt. These files can be used for 
-testing your code.
+testing the code.
 
 Each item in the file starts with a letter that indicates which type of 
 shipping item it is.
@@ -772,8 +763,7 @@ the shipping items and returns how many have is delivered set to false.
  
  8. In the tests/CMakeLists.txt (there are three CMakeLists.txt 
  files so be sure to get the one in the tests folder) uncomment 
- the line for load by removing the # at the 
- beginning of the line.
+ the line for load.
  
      ```
     set(UNIT_TEST_LIST 
@@ -784,8 +774,6 @@ the shipping items and returns how many have is delivered set to false.
       load             #uncomment to run load tests
       ) 
      ```
-    Then click the Reload Changes message at the top of the 
-    tests/CMakeLists.txt file.
  
  9. Now run all the tests on the `Load` class by running
  main_test.
