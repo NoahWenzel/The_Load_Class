@@ -2,7 +2,7 @@
 
 ## Purpose:
 This activity works with current topics and pulls together many of 
-the programming concepts learned throughout the course. We will 
+the programming concepts learned throughout the course. Here I will 
 be using, pointers, dynamic memory allocation, inheritance, and 
 polymorphism. These are new topics learned in this unit. We will 
 also be working with classes,containers, file I/O, formatting 
@@ -30,7 +30,7 @@ know for basic programming in `C++`:
 
 
 ## Knowledge:
-This lab will also help you to become familiar with the following important 
+This project will also contain the following important 
 content knowledge in CS:  
   - pointers
   - dynamic memory
@@ -39,23 +39,17 @@ content knowledge in CS:
   - Source version control
   - Use unit testing to validate code
 
-
-## Final Project
-
-In this activity we will create a base class, ShippingItem, and three 
+In this project I will create a base class, ShippingItem, and three 
 subclasses: Carton, Flat, and Tube. Then we will create a Load class that 
 manages an entire truckload of shipping items to be delivered.
 
-The testing is set up so you can test each class as you complete it. This 
-will provide feedback quicker so you can know everything is working before 
-you move on to the next class.
-
-For things to work out well, it is recommended that you complete each part 
-in the order listed.
+The testing is set up so that I can test each class as I complete it. This 
+will provide feedback quicker so that I can know everything is working before 
+I continue developing the next class.
 
 ---
 ### Files to work on
-We will be working in the following files.
+I will be working in the following files.
 
 - There is a library of classes that work with the `load` library. The library 
   consists of the following files:
@@ -69,8 +63,8 @@ We will be working in the following files.
   - `src/tube.h`
   - `src/load.cpp`
   - `src/load.h`
-- Our "driver" will be `src/main.cpp`.
-- To change which classes are tested we will be editing 
+- The "driver" will be `src/main.cpp`.
+- To change which classes are tested I will be editing 
 the `tests/CMakeLists.txt` file.
 
 Please **DO NOT MODIFY** any other files. Modifying any other file may result 
@@ -79,7 +73,7 @@ in the unit tests not passing.
 ---
 
 
-In this activity we will be creating several classes. To see how the 
+In this project I will be creating several classes. To see how the 
 classes are related, consider the following UML class diagram.
 
 ![UML class diagram of the PayrollData base class and subclasses](images/cs1410_ca6-1_class_diagram.png)
@@ -92,9 +86,6 @@ classes are related, consider the following UML class diagram.
 The `ShippingItem` class will be an abstract base class. 
 It will contain all the data and functionality that is 
 common to all the different types of shipping items.
-
-Remember to make the details exactly as shown including 
-capitalization.
 
 ### Part 1.1: Write ShippingItem Class Declaration
 
